@@ -1,0 +1,35 @@
+/* src/styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #3b5998;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .dashboard, .tracker {
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  form label {
+    display: block;
+    margin-top: 1rem;
+  }
+  
+  button {
+    margin-top: 1rem;
+    padding: 0.5rem;
+    background-color: #3b5998;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
